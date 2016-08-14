@@ -38,7 +38,4 @@ captures/
 
 # Keystore files
 *.jks
-.name
-gradlew.bat
-gradlew
 .idea

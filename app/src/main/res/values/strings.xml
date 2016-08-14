@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EOSQL</string>
+
+    <string-array name="orderby_list">
+        <item>이름</item>
+        <item>나이</item>
+        <item>별명</item>
+    </string-array>
+</resources>
