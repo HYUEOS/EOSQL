@@ -1,4 +1,4 @@
-# EOSQL
+# EOS Github Project: EOSQL
 EOS SQLite DB 예제입니다.
 
 주석을 최대한 상세하게 써두었으니 참고하세요.
@@ -17,3 +17,6 @@ EOS SQLite DB 예제입니다.
 영어로 쓰인 부분이 틀렸더라도 대충 이해 가면 걍 넘겨요.
 난 예제 만든 거지 영어 공부 한거 아니니까 ㅎ
 다행히 안깨지고 잘 올라갔네요.
+
+## Support
+Visit our Blog, [EOS Tistory](http://hyu-eos.tistory.com/category)
